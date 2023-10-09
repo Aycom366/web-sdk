@@ -1,0 +1,15 @@
+{
+  "name": "web-sdk-vanilla-example",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "@aycom366/web-sdk-template": "^1.0.1"
+  }
+}
