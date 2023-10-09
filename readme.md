@@ -108,7 +108,7 @@ function openWidget() {
 
 see more examples [here](/examples)
 
-## Testing Package Locally
+<!-- ## Testing Package Locally
 
 If you'd like to test this package locally before publishing to npm
 
@@ -118,4 +118,4 @@ If you'd like to test this package locally before publishing to npm
 - copy the tarball.tgz file generated into the root directory of project you'd like to test it on
 - run `npm install tarball.tgz file generated` to install the package
   Example: `npm install ./aycom366-web-sdk-template-1.0.0.tgz`
-- Then start using the package as if you've installed it from npm.
+- Then start using the package as if you've installed it from npm. -->
